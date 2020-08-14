@@ -83,7 +83,10 @@ These are some visualizations of the phonebook database. They are stored in cont
 ![alt text](https://github.com/TheCodeMaster2030/Java_Project/blob/master/Credits.png?raw=true)
  
  </details>
+ 
+ ## Going through the code
          
+ [![SC2 Video](https://img.youtube.com/vi/dgepmTC8Jss/0.jpg)](https://youtu.be/dgepmTC8Jss) 
 
 ## Authors
 
